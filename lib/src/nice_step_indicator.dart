@@ -75,8 +75,8 @@ class NiceStepIndicator<T> extends StatelessWidget {
           ),
           //coverage:ignore-start
           nextStep: () {
-            final controller =
-                NiceStepIndicatorProvider.of<T>(context).controller;
+            /*final controller =
+                NiceStepIndicatorProvider.of<T>(context).controller;*/
             // TODO(Ethiel97): Implement the logic for the next step
           },
           previousStep: () {
