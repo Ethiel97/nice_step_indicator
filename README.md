@@ -1,3 +1,5 @@
+[![Pub Version](https://img.shields.io/pub/v/nice_step_indicator?label=nice_step_indicator&labelColor=333940&logo=dart)](https://pub.dev/packages/nice_step_indicator) [![License](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/license/MIT)
+
 # Nice Step Indicator
 
 A package for nice step indicators in your app.
