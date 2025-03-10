@@ -8,7 +8,7 @@ issue_tracker: https://github.com/ethiel97/nice_step_indicator/issues
 
 
 environment:
-  sdk: ^3.5.4
+  sdk: ^3.4.4
   flutter: ">=1.17.0"
 
 
