@@ -1,4 +1,3 @@
-```markdown
 # nice_step_indicator
 
 A package for nice step indicators in your app.
@@ -165,4 +164,6 @@ This project is licensed under the MIT License.
 If you encounter any problems feel free to open
 an [issue](https://github.com/ethiel97/nice_step_indicator/issues/new?template=bug_report.md).
 If you feel this package is missing a
-feature, please raise a ticket on [GitHub](https://github.com/ethiel97/nice_step_indicator/issues/new?template=feature_request.md) and I'll look into it. Pull request are also welcome.
+feature, please raise a ticket
+on [GitHub](https://github.com/ethiel97/nice_step_indicator/issues/new?template=feature_request.md)
+and I'll look into it. Pull request are also welcome.
