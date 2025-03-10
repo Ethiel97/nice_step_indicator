@@ -1,4 +1,4 @@
-# nice_step_indicator
+# Nice Step Indicator
 
 A package for nice step indicators in your app.
 
