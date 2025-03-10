@@ -3,7 +3,8 @@
 A package for nice step indicators in your app.
 
 <img src="assets/demo.png" alt="demo" width="300"/>
-[Demo](assets/demo.gif)
+<img src="assets/demo.gif" alt="demo"/>
+
 ## Features
 
 - Customizable active and inactive colors
