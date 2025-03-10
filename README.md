@@ -19,7 +19,7 @@ Add `nice_step_indicator` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  nice_step_indicator: ^0.0.1
+  nice_step_indicator: ^0.1.0
 ```
 
 Then run `flutter pub get` to install the package.
