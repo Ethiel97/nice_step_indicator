@@ -2,8 +2,8 @@
 
 A package for nice step indicators in your app.
 
-<img src="assets/demo.png" alt="demo" width="300"/>
-<img src="assets/demo.gif" alt="demo"/>
+<img src="assets/demo.png" alt="Png demo"/>
+<img src="assets/demo.gif" alt="Gif demo"/>
 
 ## Features
 
