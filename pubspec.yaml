@@ -4,7 +4,7 @@ version: 0.2.0
 homepage: https://github.com/ethiel97/nice_step_indicator
 repository: https://github.com/ethiel97/nice_step_indicator
 license: MIT
-topics: [UI, Progress indicator]
+topics: [ui, progress-indicator]
 
 screenshots:
   - description: Nice step indicator
