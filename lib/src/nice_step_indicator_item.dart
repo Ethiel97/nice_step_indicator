@@ -142,7 +142,7 @@ class _ANStepLinePainter extends CustomPainter {
     };
 
     final linePaint = Paint()
-      ..color = paintColor.withOpacity(status.isInactive ? 0.8 : 1)
+      ..color = paintColor.withValues(alpha: status.isInactive ? 0.8 : 1)
       ..strokeWidth = lineWidth
       ..style = PaintingStyle.stroke;
 

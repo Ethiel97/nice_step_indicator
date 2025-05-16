@@ -1,14 +1,19 @@
 name: nice_step_indicator
-description: A package for nice step indicators in your app
-version: 0.1.0
+description: A customizable and animated Flutter package for creating beautiful step indicators with support for various styles, colors, and progress tracking
+version: 0.2.0
 homepage: https://github.com/ethiel97/nice_step_indicator
 repository: https://github.com/ethiel97/nice_step_indicator
 license: MIT
-issue_tracker: https://github.com/ethiel97/nice_step_indicator/issues
+topics: [UI, Progress indicator]
+
+screenshots:
+  - description: Nice step indicator
+    path: assets/demo.png
+
 
 environment:
-  sdk: ^3.4.4
-  flutter: ">=1.17.0"
+  sdk: ^3.5.4
+  flutter: ">=3.27.0"
 
 dependencies:
   flutter:
